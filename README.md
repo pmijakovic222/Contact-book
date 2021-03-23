@@ -10,7 +10,7 @@ to play just run contact-book.py
 
 ## Plans
 
-add executable file so you do not need to have python
+add executable file so you do not need to have python - DONE
 
 make GUI - this is a bigger plan but I will work on it
 

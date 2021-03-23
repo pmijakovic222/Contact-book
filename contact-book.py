@@ -90,6 +90,8 @@ while True:
                 delete_by_phone(phone_del)
                 break
         conn.commit()
-    
-    print("")
 
+    if default_input == "quit":
+        break
+
+    print("")
